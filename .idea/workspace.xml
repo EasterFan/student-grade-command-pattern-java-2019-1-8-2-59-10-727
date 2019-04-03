@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39ed6927-cc16-4cd7-a323-7c5187ac8ba7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/.idea/misc.xml" afterDir="false" />
+      <change afterPath="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/.idea/modules.xml" afterDir="false" />
+      <change afterPath="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/src/main/java/com/tw/ScoreService.java" afterDir="false" />
+      <change afterPath="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/src/main/java/com/tw/Student.java" afterDir="false" />
+      <change afterPath="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/src/main/java/com/tw/StudentService.java" afterDir="false" />
+      <change afterPath="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/src/test/java/com/tw/ScoreServiceTest.java" afterDir="false" />
+      <change afterPath="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/src/test/java/com/tw/StudentServiceTest.java" afterDir="false" />
+      <change beforePath="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/src/main/java/com/tw/Library.java" beforeDir="false" afterPath="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/src/main/java/com/tw/Library.java" afterDir="false" />
+      <change beforePath="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/src/test/java/com/tw/LibraryTest.java" beforeDir="false" afterPath="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/src/test/java/com/tw/LibraryTest.java" afterDir="false" />
+    </list>
+    <ignored path="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/.gradle/" />
+    <ignored path="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/build/" />
+    <ignored path="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2093268373">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="5" />
+          <entry key="md" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+          <entry key="Markdown" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="212" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="212" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.7584118">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file:///mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/src/test/java/com/tw/ScoreServiceTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="221">
+                  <caret line="72" column="47" selection-start-line="72" selection-start-column="47" selection-end-line="72" selection-end-column="47" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file:///mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/src/main/java/com/tw/ScoreService.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="50">
+                  <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+                  <folding>
+                    <element signature="e#737#738#0" expanded="true" />
+                    <element signature="e#775#776#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file:///mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/src/main/java/com/tw/Student.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="272">
+                  <caret line="16" selection-start-line="16" selection-end-line="16" />
+                  <folding>
+                    <element signature="e#423#424#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file:///mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/src/test/java/com/tw/StudentServiceTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="221">
+                  <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3.4.1" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="path" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'student-grade-command-pattern-java-2019-1-8-2-59-10-727'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'student-grade-command-pattern-java-2019-1-8-2-59-10-727'." />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'student-grade-command-pattern-java-2019-1-8-2-59-10-727'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'student-grade-command-pattern-java-2019-1-8-2-59-10-727'." />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Verifies code coverage metrics based on specified rules for the test task." />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="jacocoTestCoverageVerification" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'student-grade-command-pattern-java-2019-1-8-2-59-10-727'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'student-grade-command-pattern-java-2019-1-8-2-59-10-727'." />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Repackage existing JAR and WAR archives so that they can be executed from the command line using 'java -jar'" />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="bootRepackage" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run the project with support for auto-detecting main class and reloading static resources" />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'student-grade-command-pattern-java-2019-1-8-2-59-10-727'." />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates code coverage report for the test task." />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="jacocoTestReport" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'student-grade-command-pattern-java-2019-1-8-2-59-10-727'." />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="findMainClass" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'student-grade-command-pattern-java-2019-1-8-2-59-10-727'." />
+                <option name="linkedExternalProjectPath" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="6214638710000" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="390177789" />
+        <entry key="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/.gradle" value="0" />
+        <entry key="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/build.gradle" value="3493680540" />
+        <entry key="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/settings.gradle" value="0" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.2.RELEASE/fc806c0f6be15e39bcf6bdbd48498dc7a88ca479/spring-boot-gradle-plugin-1.5.2.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.2.RELEASE/ebb6fd2f56f0e550751f577101da22ce3dcd36bd/spring-boot-loader-tools-1.5.2.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.0.RELEASE/70a2bcf3c8d63c58a88426ba766f61c9f52801b9/dependency-management-plugin-1.0.0.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.7.RELEASE/d6bbdf962fa3a7e654f414262ac735bb9b4847ec/spring-core-4.3.7.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.2.RELEASE/b3f123b179b0170c62c8a9ce33b47f9f28df4ca/spring-boot-gradle-plugin-1.5.2.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.2.RELEASE/15c14c8a45c5876cb6389376eb6202c99e9e5d73/spring-boot-loader-tools-1.5.2.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.0.RELEASE/d329501e7bf024f9557bdd66be4f8c4caf65769f/dependency-management-plugin-1.0.0.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.7.RELEASE/54fa2db94cc7222edc90ec71354e47cd1dc07f7b/spring-core-4.3.7.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="student-grade-command-pattern-java-2019-1-8-2-59-10-727" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/gradle-resources-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/gradle-tooling-api-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/gradle-installation-beacon-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/gradle-wrapper-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/gradle-model-core-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/gradle-cli-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/ant-launcher-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/gradle-process-services-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/gradle-messaging-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/gradle-base-services-groovy-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/gradle-ui-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/gradle-native-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/ant-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/gradle-open-api-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/groovy-all-2.4.7.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/gradle-model-groovy-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/gradle-core-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/gradle-jvm-services-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/gradle-base-services-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/gradle-script-kotlin-0.5.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/gradle-logging-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/gradle-launcher-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/gradle-version-info-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/gradle-docs-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-dependency-management-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-publish-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-tooling-api-builders-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-composite-builds-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-ide-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-testing-base-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-jacoco-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-scala-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-plugin-development-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-workers-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-ide-native-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-build-init-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-build-comparison-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-reporting-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-platform-base-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-language-jvm-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-antlr-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-ivy-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-announce-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-language-native-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-jetty-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-plugin-use-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-code-quality-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-language-java-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-signing-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-plugins-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-language-groovy-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-maven-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-resources-sftp-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-javascript-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-language-scala-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-ear-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-platform-jvm-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-diagnostics-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-platform-native-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-ide-play-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-test-kit-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-osgi-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-platform-play-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-resources-s3-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-testing-jvm-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-testing-native-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-resources-http-3.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-bin/71zneekfcxxu7l9p7nr2sc65s/gradle-3.4.1/lib/plugins/gradle-build-cache-http-3.4.1.jar" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../2018-03-22-08-21-11-1521706871" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../2018-03-22-08-29-26-1521707366" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../2018-04-04-05-01-01-1522818061" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../homework/2018-03-22-08-21-11-1521706871" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../homework/2018-03-22-08-29-26-1521707366" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../homework/2018-04-04-04-52-17-1522817537" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../homework/java-collection-operator-2019-1-7-10-21-48-420" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../homework/java-practice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../homework/unit-test-java-2019-1-8-3-15-20-546" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../homework/unit-test-java-2019-3-29-1-48-53-880" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../task11-unitTest-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../../到 homework 的链接/java-collection-operator-2019-1-7-10-21-48-420" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/src/main/java/com/tw/ScoreService.java" />
+        <option value="/mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/src/test/java/com/tw/ScoreServiceTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="84" />
+    <option name="y" value="24" />
+    <option name="width" value="1303" />
+    <option name="height" value="736" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="student-grade-command-pattern-java-2019-1-8-2-59-10-727" type="b2602c69:ProjectViewProjectNode" />
+              <item name="student-grade-command-pattern-java-2019-1-8-2-59-10-727" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="student-grade-command-pattern-java-2019-1-8-2-59-10-727" type="b2602c69:ProjectViewProjectNode" />
+              <item name="student-grade-command-pattern-java-2019-1-8-2-59-10-727" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="student-grade-command-pattern-java-2019-1-8-2-59-10-727" type="b2602c69:ProjectViewProjectNode" />
+              <item name="student-grade-command-pattern-java-2019-1-8-2-59-10-727" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="student-grade-command-pattern-java-2019-1-8-2-59-10-727" type="b2602c69:ProjectViewProjectNode" />
+              <item name="student-grade-command-pattern-java-2019-1-8-2-59-10-727" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="student-grade-command-pattern-java-2019-1-8-2-59-10-727" type="b2602c69:ProjectViewProjectNode" />
+              <item name="student-grade-command-pattern-java-2019-1-8-2-59-10-727" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tw" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554256594249" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ScoreServiceTest.should_return_score_recipt_when_given_class_student_list">
+    <configuration name="ScoreServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="student-grade-command-pattern-java-2019-1-8-2-59-10-727_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tw" />
+      <option name="MAIN_CLASS_NAME" value="com.tw.ScoreServiceTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScoreServiceTest.should_return_medium_when_given_all_class_stulist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="student-grade-command-pattern-java-2019-1-8-2-59-10-727_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tw" />
+      <option name="MAIN_CLASS_NAME" value="com.tw.ScoreServiceTest" />
+      <option name="METHOD_NAME" value="should_return_medium_when_given_all_class_stulist" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScoreServiceTest.should_return_score_recipt_when_given_class_student_list" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="student-grade-command-pattern-java-2019-1-8-2-59-10-727_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tw" />
+      <option name="MAIN_CLASS_NAME" value="com.tw.ScoreServiceTest" />
+      <option name="METHOD_NAME" value="should_return_score_recipt_when_given_class_student_list" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="student-grade-command-pattern-java-2019-1-8-2-59-10-727_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tw" />
+      <option name="MAIN_CLASS_NAME" value="com.tw.StudentServiceTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ScoreServiceTest" />
+      <item itemvalue="JUnit.StudentServiceTest" />
+      <item itemvalue="JUnit.ScoreServiceTest.should_return_medium_when_given_all_class_stulist" />
+      <item itemvalue="JUnit.ScoreServiceTest.should_return_score_recipt_when_given_class_student_list" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ScoreServiceTest.should_return_score_recipt_when_given_class_student_list" />
+        <item itemvalue="JUnit.ScoreServiceTest.should_return_medium_when_given_all_class_stulist" />
+        <item itemvalue="JUnit.StudentServiceTest" />
+        <item itemvalue="JUnit.ScoreServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39ed6927-cc16-4cd7-a323-7c5187ac8ba7" name="Default Changelist" comment="" />
+      <created>1554186009451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554186009451</updated>
+      <workItem from="1554186013523" duration="712000" />
+      <workItem from="1554254597275" duration="1994000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ScoreServiceTest_should_return_medium_when_given_all_class_stulist - 2019.04.03 at 09h 40m 31s.xml">
+      <configuration name="ScoreServiceTest.should_return_medium_when_given_all_class_stulist" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScoreServiceTest_should_return_score_recipt_when_given_class_student_list - 2019.04.03 at 09h 42m 22s.xml">
+      <configuration name="ScoreServiceTest.should_return_score_recipt_when_given_class_student_list" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScoreServiceTest_should_return_score_recipt_when_given_class_student_list - 2019.04.03 at 09h 45m 40s.xml">
+      <configuration name="ScoreServiceTest.should_return_score_recipt_when_given_class_student_list" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScoreServiceTest_should_return_score_recipt_when_given_class_student_list - 2019.04.03 at 09h 46m 37s.xml">
+      <configuration name="ScoreServiceTest.should_return_score_recipt_when_given_class_student_list" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScoreServiceTest_should_return_score_recipt_when_given_class_student_list - 2019.04.03 at 09h 51m 35s.xml">
+      <configuration name="ScoreServiceTest.should_return_score_recipt_when_given_class_student_list" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScoreServiceTest_should_return_score_recipt_when_given_class_student_list - 2019.04.03 at 09h 52m 55s.xml">
+      <configuration name="ScoreServiceTest.should_return_score_recipt_when_given_class_student_list" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScoreServiceTest_should_return_score_recipt_when_given_class_student_list - 2019.04.03 at 09h 53m 09s.xml">
+      <configuration name="ScoreServiceTest.should_return_score_recipt_when_given_class_student_list" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScoreServiceTest_should_return_score_recipt_when_given_class_student_list - 2019.04.03 at 09h 54m 46s.xml">
+      <configuration name="ScoreServiceTest.should_return_score_recipt_when_given_class_student_list" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScoreServiceTest_should_return_score_recipt_when_given_class_student_list - 2019.04.03 at 09h 55m 27s.xml">
+      <configuration name="ScoreServiceTest.should_return_score_recipt_when_given_class_student_list" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScoreServiceTest_should_return_score_recipt_when_given_class_student_list - 2019.04.03 at 09h 55m 57s.xml">
+      <configuration name="ScoreServiceTest.should_return_score_recipt_when_given_class_student_list" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2706000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="84" y="24" width="1303" height="736" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.254589" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993644" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Build" order="11" visible="true" weight="0.32885906" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file:///mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/src/test/java/com/tw/ScoreServiceTest.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file:///mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/src/main/java/com/tw/ScoreService.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file:///mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/src/main/java/com/tw/ScoreService.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file:///mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/src/main/java/com/tw/ScoreService.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file:///mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/src/main/java/com/tw/ScoreService.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-714" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/src/test/java/com/tw/StudentServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/src/main/java/com/tw/ScoreService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+          <folding>
+            <element signature="e#737#738#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/src/main/java/com/tw/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#423#424#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///mnt/data/easter3/gitrepo/tw_homework/student-grade-command-pattern-java-2019-1-8-2-59-10-727/src/test/java/com/tw/ScoreServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="72" column="47" selection-start-line="72" selection-start-column="47" selection-end-line="72" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

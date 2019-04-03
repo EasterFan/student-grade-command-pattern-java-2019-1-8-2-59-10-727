@@ -11,11 +11,11 @@ import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 
 public class LibraryTest {
-    @Test
-    public void testSomeLibraryMethod() {
-        Library classUnderTest = new Library();
-        assertTrue("someLibraryMethod should return 'true'", classUnderTest.someLibraryMethod());
-    }
+//    @Test
+//    public void testSomeLibraryMethod() {
+//        Library classUnderTest = new Library();
+//        assertTrue("someLibraryMethod should return 'true'", classUnderTest.someLibraryMethod());
+//    }
 
     @Test
     public void testMockClass() throws Exception {
